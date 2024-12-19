@@ -62,8 +62,11 @@ Construisez le projet avec Maven :
 
 
 Ouvrez votre navigateur et allez à l'adresse : http://localhost:8081/Bibliotheque/index
+
 identifiant : admin@bibliotheque.com
+
 mot de passe : admin123
+
 S'inscrire ou se connecter pour consulter, emprunter et retourner des livres.
 Bibliothécaires :
 Accéder à l'interface d'administration pour gérer les livres et les utilisateurs.
