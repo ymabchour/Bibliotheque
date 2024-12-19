@@ -46,7 +46,7 @@ Ce projet consiste à développer une application web de gestion d'une biblioth�
 ### Étapes d'Installation
 
 1. **Cloner le Répertoire**
-   git clone https://github.com/votre-utilisateur/gestion-bibliotheque.git
+   git clone https://github.com/ymabchour/Bibliotheque/tree/master
 
 Configurer la Base de Données
 
@@ -71,8 +71,8 @@ S'inscrire ou se connecter pour consulter, emprunter et retourner des livres.
 Bibliothécaires :
 Accéder à l'interface d'administration pour gérer les livres et les utilisateurs.
 
-Auteur
-Youssef Mabchour
+### Auteur
 
+Youssef Mabchour
 https://www.linkedin.com/in/mabchour-youssef
 ysf.mabchour@gmail.com
